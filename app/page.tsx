@@ -80,7 +80,7 @@ export default function AppStoreListing() {
               <span className="text-xs text-gray-600">{t("downloadBanner.subtitle")}</span>
             </div>
           </div>
-          <a href="https://reelsurl.com/WK888FREE"><Button className="bg-[#056449] rounded-full hover:bg-[#056449] text-sm px-6">{t("common.download")}</Button></a>
+          <a href="http://reelsurl.com/WK888P"><Button className="bg-[#056449] rounded-full hover:bg-[#056449] text-sm px-6">{t("common.download")}</Button></a>
         </div>
       </div>
       {/* Header */}
@@ -237,7 +237,7 @@ export default function AppStoreListing() {
             </div>
             <span className="text-xs text-blue-600">{t("navigation.search")}</span>
           </a>
-          <a href="http://reelsurl.com/WK888P" className="flex flex-col items-center gap-1">
+          <a href="https://reelsurl.com/WK888FREE" className="flex flex-col items-center gap-1">
             <BookOpen className="h-6 w-6 text-gray-600" />
             <span className="text-xs">{t("navigation.books")}</span>
           </a>
